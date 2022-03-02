@@ -2,10 +2,9 @@
   "admob": true,
   "intersticio": "ca-app-pub-2687233810319887/4243348489",
   "banner": "ca-app-pub-2687233810319887/9412057567",
-  "versão": "3.8",
+  "versão": "4.1",
   "url": "https://play.google.com/store/apps/details?id\u003dcom.vision.tela2",
-  "msg": "Manutenção: 
-Voltamos em breve.",
+  "msg": ": "Estamos de volta! Atualize agora mesmo. <3",
   "obrigatorio": true,
   "unity": true
 }
